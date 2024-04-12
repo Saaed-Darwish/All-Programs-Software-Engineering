@@ -8,6 +8,24 @@ Every program that I have used in software engineering and additional laptop pro
 
 ### vscode
 - Microsoft Visual Studio Code
+- Extensions:
+  - Terraform
+  - Jupyter
+  - MySQL (Weijan Chen)
+  - Python
+  - Azure Repos
+  - C/C++
+  - Database Client JDBC (Weijan Chen)
+  - Java
+  - Docker
+  - Dev Containers
+  - GitHub Repositories/Pull Requests
+  - Live Share
+  - Power Mode
+  - Remote SSH/Repositories/Explorer
+  - Spring Boot
+  - WSL - (install new distro ubuntu 22)
+  - Theme: Winter is Coming Theme
 
 ### Python
 - Python (3.9, 3.11, Newest)
@@ -57,7 +75,7 @@ Every program that I have used in software engineering and additional laptop pro
 - Wireshark (IIS Express, npcap)
 
 ### OS
-- Oracle VM VirtualBox (Linux Virtual Machine)
+- Oracle VM VirtualBox (Linux Virtual Machine) - instead vscode WSL
 - Windows Subsystem for Linux (WSL)
 
 ### Other
