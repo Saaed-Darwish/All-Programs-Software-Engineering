@@ -30,9 +30,10 @@ Every program that I have used in software engineering and additional laptop pro
 ### Python
 - Python (3.9, 3.11, Newest)
 - Anaconda
-- Miniconda
+- Miniconda (can skip)
 - PyCharm Community Edition
-- Spyder (to allow pip installs - miniconda py env for spyder to use)
+- Spyder (to allow pip installs - miniconda py env for spyder to use) (included in anaconda)
+- jupyter notebooks (included in anaconda)
 - Pip installs:
   - numpy
   - matplotlib
