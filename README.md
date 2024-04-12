@@ -47,6 +47,7 @@ Every program that I have used in software engineering and additional laptop pro
 
 ### Java
 - Eclipse
+  - Eclipse Marketplace (EclEmma, Pitclipse)
 - Java JDK 21, 17, 11, 8
 - Apache Maven
 
