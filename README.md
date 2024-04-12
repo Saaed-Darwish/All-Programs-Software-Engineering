@@ -16,15 +16,15 @@ Every program that I have used in software engineering and additional laptop pro
 - PyCharm Community Edition
 - Spyder (to allow pip installs - miniconda py env for spyder to use)
 - Pip installs:
-  -- numpy
-  -- matplotlib
-  -- pandas
-  -- plotly
-  -- pyserial
-  -- pytest
-  -- ansible
-  -- mysql-connector-python
-  -- py -m pip install --user pipx
+  - numpy
+  - matplotlib
+  - pandas
+  - plotly
+  - pyserial
+  - pytest
+  - ansible
+  - mysql-connector-python
+  - py -m pip install --user pipx
 
 ### Java
 - Eclipse
@@ -77,19 +77,19 @@ Every program that I have used in software engineering and additional laptop pro
 - python (spyder, anaconda - jupyter, miniconda - virtual environments, SQL, matplotlib, pandas, plotly)
 - java (eclipse, apache maven)
 - Cygwin:
-  -- c
-  -- c++
+  - c
+  - c++
 - Web Applications:
-  -- React
-  -- SpringBoot
-  -- AWS
-  -- Docker
-  -- Ansible
-  -- Terraform
+  - React
+  - SpringBoot
+  - AWS
+  - Docker
+  - Ansible
+  - Terraform
 - Embedded Systems:
-  -- EiE (IAR, Jlink, etc...)
-  -- MPLAB
+  - EiE (IAR, Jlink, etc...)
+  - MPLAB
 - Containerization:
-  -- Docker
-  -- Ansible
-  -- Terraform
+  - Docker
+  - Ansible
+  - Terraform
