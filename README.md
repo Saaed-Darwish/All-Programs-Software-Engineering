@@ -72,7 +72,6 @@ Every program that I have used in software engineering and additional laptop pro
 ### Containerization
 - Docker Desktop
 
-
 ### Network
 - Wireshark (IIS Express, npcap)
 
@@ -86,6 +85,7 @@ Every program that I have used in software engineering and additional laptop pro
 - Visual Studio Community 2019
 - Microsoft Visual C++ (2005, 2008, 2013, 2015-2019, 2015-2022)
 - StarUML (UML diagrams although draw.io is way better)
+- rars.jar (assembly)
 
 ## Additional Obvious Things
 
