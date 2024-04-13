@@ -53,6 +53,9 @@ Every program that I have used in software engineering and additional laptop pro
 
 ### C/C++
 - Cygwin
+  - gcc-core (C)
+  - gcc-g++ (C++)
+  - gcc-debug (gcc debugger)
 
 ### Web Applications & Databases
 - Node.js
